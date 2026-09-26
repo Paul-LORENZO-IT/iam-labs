@@ -23,7 +23,7 @@ Every lab is reproducible, documented, and includes what went wrong, because tha
 
 1. **00 → 02: the basics.** Who is who, and how identity is proven.
 2. **03: federation.** The core of IAM work.
-3. **04 → 05: cloud.** Entra ID and AWS IAM, aligned with my certification path (AZ-104, then SC-300).
+3. **04 → 05: cloud.** Entra ID and AWS IAM, aligned with my certification path (SC-300).
 4. **06 → 07: governance and privileged access.** What sets IAM apart from classic administration.
 
 ## 🧪 Environment
@@ -59,4 +59,4 @@ Languages: French, English (B2), Spanish (B2). Targeting roles in Spain.
 
 ## 📫 Contact
 
-[GitHub profile](https://github.com/Paul-LORENZO-IT) · [LinkedIn](https://linkedin.com/in/(https://www.linkedin.com/in/paul-lorenzo-0b5a2743a/?locale=fr-FR))
+[GitHub profile](https://github.com/Paul-LORENZO-IT) · [LinkedIn](https://www.linkedin.com/in/paul-lorenzo-0b5a2743a/))
